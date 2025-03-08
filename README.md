@@ -19,4 +19,4 @@ A modern and responsive website built with HTML, CSS, and JavaScript.
 ## Installation 🔧  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/my-website.git
+   git clone https://github.com/RiahiIheb97/business-website.git
